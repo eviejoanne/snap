@@ -20,13 +20,13 @@ description: > # this means to ignore newlines until "baseurl:"
   low-maintenance hydroponics system that is designed for household and
   small-scale vegetable production.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://snaphydroponics.info" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://snaphydroponics.info" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: snaphydroponics
-facebook_username: snap.simple.nutrient.addition.program
+facebook_username: simple.nutrient.addition.program
 instagram_username: snaphydroponics
 
 # Build settings
-author: The SNAP Grower
+author: Marco Enrico
 markdown: kramdown
 theme: jekyll-theme-cayman
 plugins:
