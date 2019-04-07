@@ -1,0 +1,13 @@
+{% if include.width and include.height %}
+  {% capture dimensions %}
+    is-{{include.width}}x{{include.height}}
+  {% endcapture %}
+{% endif %}
+
+{% assign filename = include.filename | default: image-missing.jpg %}
+<figure class="image {{dimensions}}">
+  <img src="{{site.baseurl}}/assets/images/{{filename}}" alt="{{include.alt | default: filename| replace: '-', ' ' | remove:'.jpg' }}">
+  {% if include.caption %}
+  <figcaption>{{include.caption}}</figcaption>
+  {% endif %}
+</figure>
