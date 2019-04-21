@@ -16,7 +16,7 @@ layout: page
   </div>
 </section>
 
-<section id="important-reminder" markdown="1">
+<section class="content" id="important-reminder" markdown="1">
 
 # Important Reminder
 
@@ -43,7 +43,7 @@ Examples:
 * An east facing area that receives early morning sunlight and is covered by an
 awning (acceptable)
 
-<figure class="image is-2048x644">
+<figure class="image is-1024x322">
   <img src="{{site.baseurl}}/assets/images/suitable-snap-location.jpg"
   alt="Growboxes with plants growing, sitting on benches and located in a
   sunny area.">
@@ -51,7 +51,7 @@ awning (acceptable)
 </figure>
 </section>
 
-<section id="establish-seedlings" markdown="1">
+<section class="content" id="establish-seedlings" markdown="1">
 
 # Establish the Seedlings
 
@@ -69,7 +69,7 @@ It’s best to keep the lid since it can be used to keep the moisture in and hel
 with the seed germination. If you intend to use them add aeration holes on them
 to allow some air to escape and circulate.
 
-<figure class="image is-2048x1753">
+<figure class="image is-1024x877">
   <img src="{{site.baseurl}}/assets/images/sowing-tray.jpg" alt="A microwavable tub with holes
   at the bottom and on the lid.">
   <figcaption>A microwavable tub fashioned into a sowing tray.</figcaption>
@@ -84,7 +84,7 @@ Regular potting mixes also works specially the ones designed for seed raising.
 The use of soil that was dug up from the surroundings is not recommended because
 it could be contaminated with pests and other pathogens.
 
-<figure class="image is-2048x1365">
+<figure class="image is-1024x683">
   <img src="{{site.baseurl}}/assets/images/coco-coir.jpg" alt="A tub of hydrated coco coir.">
   <figcaption>Coco coir prepared from coco coir dehydrated bricks.</figcaption>
 </figure>
@@ -92,13 +92,14 @@ it could be contaminated with pests and other pathogens.
 ### Seeds
 
 These can be bought from local garden or agricultural center. For beginners, it
-is strongly recommended to start with leafy vegetables such as lettuce, pechay,
-mustasa or kangkong.
+is strongly recommended to start with leafy vegetables such as lettuce, *pechay*,
+*mustasa* or *kangkong*.
 
-<figure class="image is-1536x2048">
+<figure class="image is-768x1024">
   <img src="{{site.baseurl}}/assets/images/seed-packet-display.jpg"
   alt="A shop display case with various seed packets shown.">
-  <figcaption>A typical selection of seeds that can be found in gardening and agri-vet centers.</figcaption>
+  <figcaption>A typical selection of seeds that can be found in gardening and
+  agri-vet centers.</figcaption>
 </figure>
 
 ## Procedure
@@ -112,8 +113,9 @@ pinch of small seeds (lettuce seeds for example) contains around twenty (20) to
 fifty (50) seeds. Be sure to consider the germination rate of your seeds which
 is usually indicated in the seed packets.
 
-    <figure class="image is-1536x2048">
-      <img src="{{site.baseurl}}/assets/images/seed-packet.jpg" alt="Back of a seed packet with the germination rate highlighted.">
+    <figure class="image is-1024x651">
+      <img src="{{site.baseurl}}/assets/images/germ-rate-highlight.jpg"
+      alt="Back of a seed packet with the germination rate highlighted.">
       <figcaption>Back of a seed packet with the germination rate highlighted</figcaption>
     </figure>
 
@@ -127,29 +129,29 @@ hours with most of the seeds germinating one (1) to two (2) weeks.
 5. Grow the seedlings for ten (10) days before transferring to individual
 [seedling plugs](#seedling-plugs).
 
-    <figure class="image is-2048x1365">
+    <figure class="image is-1024x683">
       <img src="{{site.baseurl}}/assets/images/germinated-seeds.jpg"
         alt="Germinated seeds showing their first true leaves.">
-      <figcaption>Mustasa seedlings with first true leaves visible.</figcaption>
+      <figcaption><em>Mustasa</em> seedlings with first true leaves visible.</figcaption>
     </figure>
 
 </section>
 
-<section id="prepare-grow-boxes" markdown="1">
-# Prepare Growing Boxes
+<section class="content" id="prepare-grow-boxes" markdown="1">
+# Prepare Grow Boxes
 
 ## Required Materials
 
 ### Styrobox
 
 Boxes made of expanded polystyrene (EPS) known commonly as “styrofoam box” or
-simply “styrobox” makes excellent materials for growing boxes. The *de facto*
-size for styrofoam grow boxes is 20"×16"×6". These boxes can hold 10 (ten) to
-twelve (12) liters of nutrient solution and has enough room to grow up to eight
-(8) leafy vegetables and up to five (5) fruiting vegetables. Styroboxes of this
-size are used to transport US imported grapes and are typically common during the
-months of September to January. For details please see this
-[styrobox guide]({{site.baseurl}}/styro-boxes).
+simply “styrobox” make excellent materials for grow box (or growing box). The
+size recommended for use with SNAP Hydroponics is 20"×16"×6". These boxes can
+hold 10 (ten) to twelve (12) liters of nutrient solution and has enough room to
+grow up to eight (8) leafy vegetables and up to five (5) fruiting vegetables.
+Styroboxes of this size are used to transport US imported grapes and are
+typically common during the months of September to January. For details please
+see this [styrobox guide]({{site.baseurl}}/styro-boxes).
 
 ### Lining Material
 
@@ -158,7 +160,7 @@ bottom half of the box to hold the nutrient solution it must be lined with a
 sturdy waterproofing sheet. This manual we will use 20 ✕ 30 inch polyethylene (PE)
 plastic bags 
 
-<figure class="image is-2048x992">
+<figure class="image is-1024x426">
 <img src="{{site.baseurl}}/assets/images/20-by-30-pe-plastic-bag.jpg"
 alt="A bag of polyethylene (PE) plastic bag with dimensions and number of contents indicated.">
 <figcaption>A typical brand of 20 ✕ 30 inch PE plastic bags.</figcaption>
@@ -166,10 +168,10 @@ alt="A bag of polyethylene (PE) plastic bag with dimensions and number of conten
 
 ### Styrofoam Puncher
   
-A tool is required to make holes on the upper half of the grow box for the
-[seedling plugs](#seedling-plugs). A tin can of the appropriate diameter
-for the seedling plug can be made into such a styrofoam puncher. For details
-please see this [guide on making DIY styrofoam puncher]({{site.baseurl}}/styrofoam-puncher).
+A styroform puncher is required to make holes on the upper half of the grow box
+for the [seedling plugs](#seedling-plugs). A tin can of the appropriate diameter
+for the seedling plug can be made into such a tool. For details please see this
+[guide on making DIY styrofoam puncher]({{site.baseurl}}/styrofoam-puncher).
 
 ### Packaging Tape
 
@@ -179,54 +181,64 @@ ventilation holes.
 ### Bamboo Stick
 
 A bamboo stick or similar implement is used to draw guidelines on the styrofoam.
-It is also used to safely remove the styrofoam piece from the hole making tool
+It is also used to safely remove the styrofoam piece from the styrofoam puncher
 after each cut.
 
 ## Procedure
 
-1. Turn the upperhalf of the styrobox over and place it on a flat surface. You
+1. Flip the upperhalf of the styrobox over and place it on a flat surface. You
 may also put a piece of plywood or cardboard in between the surface and the 
-styrofoam to prevent the surface from being damaged by hole making tool during
+styrofoam to prevent the surface from being damaged by the styrofoam puncher during
 the cutting step of the procedure.
 
-2. Draw guide lines connecting the ventilation holes from opposite sides of the box
-(illustrated below). A hole should be made centered where the lines cross.
+2. Draw guide lines connecting the ventilation holes from opposite sides of the
+box as illustrated below. A hole should be made centered where the lines cross.
 
-    <figure class="image is-2048x1366">
+    <figure class="image is-1024x682">
       <img src="{{site.baseurl}}/assets/images/grow-box-top-guide.jpg"
       alt="Upper half of the grow box showing how the guidelines are drawn.">
       <figcaption>Lines connecting ventilation holes in opposite sides. A hole is made where they
       intersect.</figcaption>
     </figure>
 
-3. To make holes put the sharp end of the tool on the styrofoam and apply pressure
-to score the surface. Hold the tool by the handles and apply pressure while moving
-the tool in clockwise and counter clockwise direction making tool cut deeper
-through the foam. Continue this process until the tool cuts through the foam.
+3. To make holes, put the sharp end of the styrofoam puncher on the styrofoam
+and apply pressure to score the surface. Hold the tool by the handles and apply
+pressure while moving the tool in a clockwise and counter-clockwise direction
+making tool cut deeper through the foam. Continue this process until the tool
+cuts through the foam.
 
-4. Gently pull out the hole making tool. A circular piece of foam will be left on
+4. Gently pull out the styrofoam puncher. A circular piece of foam will be left on
 one end of the tool. Use the stick to safely push one side of the piece into the
 tool. This will cause piece to rotate and the other side be pushed  out of the
 tool allowing you to safely grab and pull it out the styrofoam piece from the
-hole making tool.
+styrofoam puncher.
 
 5. Repeat this process to create the rest of the holes.
 
+    <figure class="image is-1024x683">
+      <img src="{{site.baseurl}}/assets/images/grow-box-top-bottom-view.jpg"
+      alt="Upper half of the grow box showing how the punched holes are positioned with respect to
+      the guide lines.">
+      <figcaption>Holes are punched where the guide lines intersect.</figcaption>
+    </figure>
+
 6. It is strongly recommended that you use packing tape to cover the ventilation
-on this half of the styrobox. This will deny mosquitoes access to the nutrient
-solution and stop them from breeding in the grow box.
+on this half of the styrobox if your growing area does not have protection from
+mosquitoes. This will deny mosquitoes access to the nutrient solution and stop
+them from breeding in the grow box.
 
 7. Line the lower half of the styrobox with the PE plastic bag. For detailed
-instructions please see this guide on [how to line the grow box]({{site.baseurl}}/lining-growbox).
+instructions please see [lining the grow box section]({{site.baseurl}}/grow-box-construction#lining-grow-box)
+on the [detailed grow box construction guide.]({{site.baseurl}}/grow-box-construction).
 
-    <figure class="image is-1024x768">
+    <figure class="image is-1024x683">
       <img src="{{site.baseurl}}/assets/images/lined-grow-box-lower-half.jpg"
       alt="Lower half of a styrofoam box lined with PE plastic sheet.">
       <figcaption>Lower half of a styrofoam box lined with PE plastic sheet.</figcaption>
     </figure>
 </section>
   
-<section id="prepare-seedling-plugs" markdown="1">
+<section class="content" id="prepare-seedling-plugs" markdown="1">
 
 # Prepare Seedling Plugs
 
@@ -236,7 +248,7 @@ instructions please see this guide on [how to line the grow box]({{site.baseurl}
 
 In this guide we will use eight ounce (8oz.) styrofoam cups pictured below.
 
-<figure class="image is-1536x2048">
+<figure class="image is-1024x683">
   <img src="{{site.baseurl}}/assets/images/styro-cup.jpg"
    alt="An 8oz. styrofoam cup along side a measuring tape">
   <figcaption>A typical 8oz. styrofoam cup.</figcaption>
@@ -266,7 +278,7 @@ implement when transferring the seedlings to the seedling plugs.
 from the bottom. It should be two-thirds of along the side of the cup and about
 one-third the radius of the bottom of the cup.
 
-    <figure class="image is-768x768">
+    <figure class="image is-683x1024">
       <img src="{{site.baseurl}}/assets/images/seedling-plug-bottom.jpg"
       alt="Bottom of seedling plug with slits running along the side and bottom.">
       <figcaption>Bottom of seedling plug with slits running along the side and bottom.</figcaption>
@@ -289,7 +301,7 @@ they are transferred to the growing boxes. Let the prepared seedling plug sit
 in a shallow pool of diluted [working solution]({{site.baseurl}}/snap-working-solution)
 for a few days.
 
-    <figure class="image is-2048x2048">
+    <figure class="image is-1024x683">
       <img src="{{site.baseurl}}/assets/images/hardening-off.jpg"
       alt="Seedling plugs sitting on a shallow pool of diluted SNAP working solution.">
       <figcaption>Seedling plugs sitting on a shallow pool of diluted SNAP working solution.</figcaption>
@@ -297,9 +309,9 @@ for a few days.
 
 </section>
 
-<section id="assembly-maintenance" markdown="1">
+<section class="content" id="assembly-maintenance" markdown="1">
 
-# Assembling and Maintaining the SNAP Hydroponics System
+# Setting Up the SNAP Hydroponics System
 
 ## Materials Needed
 
@@ -368,21 +380,48 @@ If not add **plain water** until the proper water level is reached.
 
 6. Examine the boxes for leaks and do troubleshooting.
  
-7. Visit the set up every morning as early as you can to catch any insect larva
-that may feed on the plants. The larva is active visible in the early morning.
-After that they tend to hide and are harder to find.
-
-8. Expect the working solution level to go down as the plants grow. Replenish
-the solution when the working solution level becomes too low. Never allow it to
-totally dry up. When replenishing the solution, **never** allow the level of
-the solution to reach the bottom of the cup and submerge the aerial roots.
-For details please see the
-[replenishment guide]({{site.baseurl}}/working-solution-replenishment).
 
 </section>
 
-<section id="harvest-tear-down" markdown="1">
+<section class="content" id="maintenance" markdown="1">
+
+# Maintenance of the SNAP Hydroponics System
+
+Visit the setup every morning as early as you can to catch any insect larva
+that may feed on the plants. The larva is active visible in the early morning.
+After that they tend to hide and are harder to find.
+
+Expect slow plant growth in the first two weeks after the seedlings have been
+transplanted. This is specially true if the seedlings has not been hardened off.
+In this first couple of weeks the plant is adjusting to water logged conditions.
+
+After the first couple of weeks the plants will show vigorous growth. Most leafy
+crops will be of marketable size during in third week onward.
+
+Expect the working solution level to go down as the plants grow. The level will
+go down faster as the plants grow.
+
+Replenish the solution when the working solution level becomes too low. **Never**
+allow it to totally dry up. When replenishing the solution, **never** allow
+the level of the solution to reach the bottom of the cup and submerge all of the
+roots. The upper half of the plants’ roots must always be exposed to air and
+thus not be submerged in water. Always observe this practice when replenishing
+the contents of the grow box.
+
+Crops that needs replenishment but are close to harvest are replenished with
+plain water.
+
+Crops that needs to be grown for over a month are replenished with fresh working
+solution.
+
+</section>
+
+<section class="content" id="harvest-tear-down" markdown="1">
+
 # Harvest and Tear Down
+
+
+
 
 </section>
 
