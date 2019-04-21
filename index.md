@@ -78,7 +78,7 @@ to allow some air to escape and circulate.
 ### Growing Media
 
 There are a number of materials that can be used as growing media for seed raising.
-In this manual we will use [coco coir]({{site.baseurl}}/coco-coir).
+In this manual, we will use [coco coir]({{site.baseurl}}/coco-coir).
 
 Regular potting mixes also works specially the ones designed for seed raising.
 The use of soil that was dug up from the surroundings is not recommended because
